@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Atharva%20Kulkarni&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Open%20Source%20Learner&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Atharva%20Kulkarni&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Data%20Analysis%20|%20Open%20Source%20Learner&descAlignY=58"/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm Atharva Kulkarni
 
-### 🚀 Full Stack Web Developer | MERN Stack Developer | 2026 Engineering Graduate
+### 🚀 Full Stack Developer (MERN) · Python Data Analysis · 2026 Engineering Graduate
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Building+Real+World+Projects;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New;Welcome+to+my+GitHub+Profile!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN;Python+%7C+Pandas+%7C+Data+Analysis;Building+Real+World+Projects;Always+Learning+Something+New;Welcome+to+my+GitHub+Profile!" />
 
 <img src="https://komarev.com/ghpvc/?username=atharva706&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -25,15 +25,15 @@
 
 Status           : Active
 Location         : India 🇮🇳
-Role             : Full Stack Developer
+Role             : Full Stack Developer + Data Analysis
 Education        : Electronics & Telecommunication Engineering (2026)
-Current Stack    : MERN
-Current Mission  : Building impactful web applications
+Current Stack    : MERN, Python
+Current Mission  : Building impactful web apps & data-driven projects
 ```
 
-- 💻 Passionate about Full Stack Development
+- 💻 Full Stack Development with the MERN stack
+- 📊 Exploring data with Python, SQL and machine learning
 - 🌱 Currently learning **Next.js, TypeScript & System Design**
-- 🚀 Building scalable MERN applications
 - 📚 Improving DSA every day
 - 🤝 Open to collaborations and Open Source
 - ⚡ Fun Fact: *Consistency beats talent.*
@@ -54,13 +54,15 @@ Current Mission  : Building impactful web applications
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_LEETCODE">
+<!-- Add these back once you paste your real profile URLs:
+<a href="https://leetcode.com/u/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_GFG">
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
+-->
 
 </p>
 
@@ -71,124 +73,60 @@ Current Mission  : Building impactful web applications
 ## Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,js"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,js,py"/>
 </p>
-
----
 
 ## Frontend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs"/>
-
 </p>
-
----
 
 ## Backend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
 </p>
-
----
 
 ## Database
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
 </p>
 
----
+## Data & ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn"/>
+</p>
 
 ## Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
-
 </p>
-
----
-
-# 📈 Coding Journey
-
-```text
-HTML        ████████████████████░░ 95%
-
-CSS         ██████████████████░░░░ 90%
-
-JavaScript  █████████████████░░░░░ 88%
-
-React       ███████████████░░░░░░░ 80%
-
-Node.js     ██████████████░░░░░░░░ 75%
-
-MongoDB     █████████████░░░░░░░░░ 72%
-
-DSA         ███████████████░░░░░░░ 80%
-```
 
 ---
 
 # 🚀 Featured Projects
 
-## 📚 College Notes Sharing Platform
+## 📊 Data Analysis & Machine Learning
 
-```text
-Stack
-─────
-React
-Node.js
-Express
-MongoDB
+| Project | Description |
+|---|---|
+| [Hotel Booking Cancellation Analysis](https://github.com/atharva706/Hotel-Booking-Cancellation-Analysis) | Exploring what drives hotel booking cancellations using Python libraries |
+| [Students Academic Performance Analysis](https://github.com/atharva706/Students-academic-performance-analysis) | Analysing factors that influence student results (Python) |
+| [Student Performance Prediction Model](https://github.com/atharva706/Student-Performance-Prediction-model) | ML model that predicts student performance (Python) |
+| [Sales Analysis and Prediction](https://github.com/atharva706/Sales-analysis-and-prediction) | Sales trend analysis and forecasting (Python) |
+| [SQL Based Data Exploration](https://github.com/atharva706/SQL-Based-Data-Exploration) | Exploring datasets with SQL queries |
 
-Features
-────────
-✔ Authentication
-✔ Faculty Uploads
-✔ Student Downloads
-✔ Organized Notes
-✔ Responsive UI
-```
+## 🌐 Web Development
 
----
-
-## 🌾 Farmer World Wellbeing Web
-
-```text
-A platform built for farmers that connects them with:
-
-✔ Soil Testing
-✔ Government Schemes
-✔ Emergency Help
-✔ Village Committees
-✔ Disaster Support
-```
-
----
-
-## 🧮 Last Minute Rush Calculator
-
-```text
-HTML
-CSS
-JavaScript
-
-A modern calculator featuring
-
-✔ Scientific Functions
-✔ Beautiful UI
-✔ Responsive Design
-✔ Smooth Animations
-```
+| Project | Stack | Highlights |
+|---|---|---|
+| 📚 **College Notes Sharing Platform** | React · Node.js · Express · MongoDB | Authentication, faculty uploads, student downloads, organised notes, responsive UI |
+| 🌾 **Farmer World Wellbeing Web** | MERN | Soil testing, government schemes, emergency help, village committees, disaster support |
+| 🧮 [**Casio Calculator**](https://github.com/atharva706/casio-calculator) | HTML · CSS · JavaScript | Scientific functions, responsive design, smooth animations |
 
 ---
 
@@ -196,40 +134,16 @@ A modern calculator featuring
 
 ```javascript
 const atharva = {
+  code:     ["HTML", "CSS", "JavaScript", "React", "Node", "Express", "MongoDB", "Python", "SQL"],
+  learning: ["Next.js", "TypeScript", "System Design"],
+  goals:    ["Open Source", "Build SaaS", "Get Software Developer Role"],
+};
 
-    code: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Node",
-        "Express",
-        "MongoDB"
-    ],
-
-    learning: [
-        "Next.js",
-        "TypeScript",
-        "System Design"
-    ],
-
-    goals: [
-        "Open Source",
-        "Build SaaS",
-        "Get Software Developer Role"
-    ]
-}
-
-while(true){
-
-    Learn();
-
-    Build();
-
-    Debug();
-
-    Repeat();
-
+while (true) {
+  learn();
+  build();
+  debug();
+  repeat();
 }
 ```
 
@@ -241,25 +155,11 @@ while(true){
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atharva706&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva706&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com/?user=atharva706&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva706&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=atharva706&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -275,53 +175,13 @@ while(true){
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-```text
-(Requires GitHub Action)
-
-github-contribution-grid-snake.svg
-```
-
-</div>
-
----
-
-# 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# ☕ Support
-
-<div align="center">
-
-If you like my work,
-
-⭐ Star my repositories
-
-🍴 Fork projects
-
-🤝 Collaborate
-
-</div>
-
----
-
 <div align="center">
 
 ## 💙 Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+⭐ Star my repositories · 🍴 Fork projects · 🤝 Collaborate
 
-### ⭐ Happy Coding ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 
 > "Code is not just syntax. It's the bridge between ideas and reality."
 
